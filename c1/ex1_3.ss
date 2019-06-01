@@ -1,4 +1,4 @@
-#lang racket
+#lang scheme 
 
 (define (sum_squares a b) (+ (* a a) (* b b)))
 
